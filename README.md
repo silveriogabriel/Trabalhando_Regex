@@ -1,2 +1,2 @@
 # Trabalhando_Regex
- Trabalhando com testos atravez de um REGEX
+ Trabalhando com textos atravez de um REGEX
